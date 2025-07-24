@@ -12,7 +12,7 @@ public class Solution {
         }
         else
         {
-            int count = String.valueOf(num).length();
+            int count =valueOf(num).length();
             System.out.println("The count of the given integer is: " + count);
         }  
     }
